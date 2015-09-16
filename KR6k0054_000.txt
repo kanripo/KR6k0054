@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 優波離問佛經
+#+DATE: 2015-08-30 20:43:22.827615
+#+PROPERTY: JUAN 0
